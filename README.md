@@ -36,5 +36,5 @@ Porta padrão do sistema localhost: 8080
 - DELETE: ``localhost:8080/usuarios/1`` (Apaga o usuário que pertence ao ID determinado)
 - GET: ``localhost:8080/usuarios/total`` (Mostra todos os usuários  cadastrados)
 
-  # Gostaria de testar o sistme ?
+  # Gostaria de testar o sistema ?
 Você pode utilizar ferramentas como o Postman ou o Insomnia para realizar testes de requisições HTTP na API.
